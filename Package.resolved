@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Branch",
+        "repositoryURL": "git@github.com:BranchMetrics/ios-branch-deep-linking-attribution.git",
+        "state": {
+          "branch": null,
+          "revision": "ac991f9d0bc9bad640b25a0f1192679a8cfa083a",
+          "version": "0.35.0"
+        }
+      },
+      {
+        "package": "mParticle-Apple-SDK",
+        "repositoryURL": "git@github.com:mParticle/mparticle-apple-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "90eba99fc6b1d2c0ebf8e6aed27bc8cab71d2ab1",
+          "version": "8.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
